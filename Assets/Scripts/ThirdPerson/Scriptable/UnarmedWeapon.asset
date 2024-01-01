@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca629e485344313a61cda821aa14aa8, type: 3}
+  m_Name: UnarmedWeapon
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: 
+  modelPrefab: {fileID: 7674967458808950448, guid: 10932ff7dec94b04da7a95e6d05bfc87, type: 3}
+  isUnarmed: 1
+  right_Hand_Idle: Right Arm Empty
+  left_Hand_Idle: Left Arm Empty
+  th_idle: 
+  OH_LIGHT_ATTACK_1: 
+  OH_LIGHT_ATTACK_2: 
+  OH_LIGHT_ATTACK_3: 
+  OH_LIGHT_ATTACK_4: 
+  OH_HEAVY_ATTACK_1: 
+  OH_HEAVY_ATTACK_2: 
+  OH_HEAVY_ATTACK_3: 
+  OH_HEAVY_ATTACK_4: 
+  TH_LIGHT_ATTACK_01: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isSpellCaster: 0
+  isFaithCaster: 0
+  isPyroCaster: 0
+  isMeleeWeapon: 1
